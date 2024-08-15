@@ -3,7 +3,10 @@ This project showcases a comprehensive data analysis of the Virinda Online Store
 
 # Key Features:
 Sales Analysis: Detailed breakdown of sales performance across different time periods and categories.
+
 Customer Insights: Analysis of customer demographics and purchasing patterns.
+
 Product Performance: Evaluation of top-selling products and inventory management.
+
 Interactive Dashboard: A dynamic Excel dashboard with slicers and charts for easy data exploration.
 
